@@ -1,0 +1,10 @@
+/*vertical-layout.css*/
+.pricing-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    justify-content: center;
+    align-items: space-around;
+    align-content: center;
+    margin-top: 200px;
+  }
